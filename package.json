@@ -32,5 +32,9 @@
     "*.{js,jsx,ts,tsx,json,jsonc,css,scss,md,mdx}": [
       "bun x ultracite fix --unsafe"
     ]
+  },
+  "dependencies": {
+    "axios": "^1.13.5",
+    "lucide-react": "^0.563.0"
   }
 }

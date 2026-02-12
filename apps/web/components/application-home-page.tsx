@@ -1,4 +1,4 @@
-import JobCard from "./ApplicationHomePage/job-card";
+import JobCard from "./job-card";
 
 const requests = [
   {
